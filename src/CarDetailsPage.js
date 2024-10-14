@@ -74,7 +74,7 @@ function CarDetailsPage() {
 
       <div className="map-container">
         <GoogleMapReact
-          bootstrapURLKeys={{ key: 'YOUR_GOOGLE_MAPS_API_KEY' }}
+          bootstrapURLKeys={{ key: 'AIzaSyAXQhoQnGB-PuzkgD1djLBIFsbtvZFfEy0' }}
           defaultCenter={defaultProps.center}
           defaultZoom={defaultProps.zoom}
         >
